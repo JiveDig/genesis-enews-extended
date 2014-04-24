@@ -51,6 +51,8 @@ Questions can be asked at the [WordPress.org Support Forum](http://wordpress.org
 
 == Changelog ==
 
+= 1.4.1 =
+* Updated Danish translation. Props MortenK
 = 1.4.0 =
 * Adds MailPoet itegration. Props [Maor Chasen](http://maorchasen.com/).
 * Updated pt_BR translation and added en_UK translation. Props [Fabiana Simões](http://fabianapsimoes.wordpress.com/) and [Gary Jones](http://garyjones.co.uk/).
@@ -160,6 +162,7 @@ A special thanks to all who have contributed to Genesis eNews Extended.
 * Daniel Bailey (Bulgarian)
 * Gary Jones (British English)
 * Fabiana Simões (Portuguese-Brazil)
+* MortenK (Danish)
 
 = StudioPress =
 * Special thanks to Brian Gardner and the team at StudioPress who wrote the original code that provided the foundation for the plugin.
@@ -227,3 +230,6 @@ Fixed bug that prevents a mail service's validation to work correctly. Improved 
 
 = 1.4.0 =
 * Added native support for MailPoet and added/improved translations.
+
+= 1.4.1 =
+* Updated Danish translation.
